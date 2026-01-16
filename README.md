@@ -64,50 +64,6 @@ The analysis is performed using **Excel, Power Query, and Power BI** to generate
 
 ---
 
-## 📈 Key Insights
-- Only **31%** of AWCs have own buildings  
-- **36%** have functional toilets and **33%** have drinking water access  
-- Hot Cooked Meal coverage remains low at **9%**  
-- High beneficiary concentration observed in select districts  
-- Significant infrastructure gaps exist across multiple regions  
-
----
-
-## 📊 Types of Analysis Performed
-
-### 1️⃣ Descriptive Analysis  
-Focuses on *what is happening*:
-- Total number of AWCs  
-- Infrastructure availability  
-- Beneficiary distribution  
-
-### 2️⃣ Diagnostic Analysis  
-Focuses on *why it is happening*:
-- Identification of low-performing districts  
-- Comparison between infrastructure and service delivery  
-- Gaps in Aadhaar enrolment  
-
-### 3️⃣ Predictive Analysis  
-Focuses on *what may happen next*:
-- Forecasting service demand  
-- Identifying high-risk districts  
-
-### 4️⃣ Prescriptive Analysis  
-Focuses on *what actions should be taken*:
-- Improve infrastructure in underperforming districts  
-- Enhance Hot Cooked Meal & THR distribution  
-- Strengthen Aadhaar-based beneficiary tracking  
-
----
-
-## 📊 Dashboard Highlights
-- KPI cards for key indicators  
-- District-wise comparison charts  
-- Infrastructure gap visualization  
-- Beneficiary distribution dashboards  
-
----
-
 ## 🎯 Conclusion
 The analysis highlights critical gaps in Anganwadi infrastructure and service delivery. Strengthening basic facilities, improving nutrition coverage, and enhancing data-driven planning can significantly improve the effectiveness of the POSHAN scheme.
 
